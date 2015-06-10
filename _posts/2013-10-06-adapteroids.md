@@ -6,6 +6,7 @@ summary: Treat your peepers to the world's first interactive adventure comic!
 tags:
 - unity
 - c#
+- open-source
 ---
 
 [zortic-01]: /images/zortic/zortic-01.jpg "Zortic 01"

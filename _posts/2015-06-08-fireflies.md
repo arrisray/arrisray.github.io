@@ -7,6 +7,7 @@ tags:
 - cinder
 - opengl
 - glsl
+- open-source
 ---
 
 [Fireflies-01]: /images/fireflies/fireflies-01.jpg "Fireflies 01"
