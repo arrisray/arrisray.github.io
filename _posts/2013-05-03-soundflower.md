@@ -1,5 +1,10 @@
 ---
-title: Soundflower
+layout: post
+title: Cinder + Soundflower
+summary:  A simple sample project that demonstrates how to use Soundflower to intercept an audio stream and manipulate it using the Cinder framework.
+tags:
+- cinder
+- soundflower
 ---
 
 A simple sample project that demonstrates how to use Soundflower to intercept an audio stream and manipulate it using the Cinder framework.

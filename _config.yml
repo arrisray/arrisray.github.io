@@ -1,34 +1,54 @@
 # Site settings
-title: Projects by Arris
-description: "Projects by Arris."
-url: "http://arrisray.github.io"
-author:
-  name: "Arris Ray"
-  email: "arris.ray@gmail.com"
-  url: "http://arrisray.github.io"
+title:       Arris
+email:       arris.ray@gmail.com
+author:      Arris Ray
+description: "An online portfolio."
+baseurl:     ""
+url:         "http://arrisray.github.io"
+
+# Google analytics
+google_analytics:
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Social icons
+show_social_icons: true
+github_username: arrisray
+stackoverflow_id:
+twitter_username:
+google_plus_id:
+linkedin_username:
+angellist_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Post sharing icons
+show_sharing_icons: false
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
 
 # Build settings
-baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
-markdown: kramdown
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 8
-paginate_path: /page:num/
-
-# Default values
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-# Custom variables
-version: "1.1.0"
-
-# Options
-custom_header: false
-custom_nav_footer: false
-reverse: false
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     5
+sass:
+  compressed: true
