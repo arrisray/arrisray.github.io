@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fireflies
-thumbnail: images/fireflies/fireflies-04.jpg
+thumbnail: static/images/fireflies/fireflies-04.jpg
 summary: This is an audio-reactive particle system built in Cinder.
 tags:
 - cinder
@@ -10,12 +10,12 @@ tags:
 - open-source
 ---
 
-[Fireflies-01]: /images/fireflies/fireflies-01.jpg "Fireflies 01"
-[Fireflies-02]: /images/fireflies/fireflies-02.jpg "Fireflies 02"
-[Fireflies-03]: /images/fireflies/fireflies-03.jpg "Fireflies 03"
-[Fireflies-04]: /images/fireflies/fireflies-04.jpg "Fireflies 04"
-[Fireflies-05]: /images/fireflies/fireflies-05.jpg "Fireflies 05"
-[Fireflies-06]: /images/fireflies/fireflies-06.jpg "Fireflies 06"
+[Fireflies-01]: /static/images/fireflies/fireflies-01.jpg "Fireflies 01"
+[Fireflies-02]: /static/images/fireflies/fireflies-02.jpg "Fireflies 02"
+[Fireflies-03]: /static/images/fireflies/fireflies-03.jpg "Fireflies 03"
+[Fireflies-04]: /static/images/fireflies/fireflies-04.jpg "Fireflies 04"
+[Fireflies-05]: /static/images/fireflies/fireflies-05.jpg "Fireflies 05"
+[Fireflies-06]: /static/images/fireflies/fireflies-06.jpg "Fireflies 06"
 
 This is an audio-reactive particle system built in Cinder. With a little applied imagination, it resembles a swarm of fireflies at night with a precise sense of rhythm.
 
